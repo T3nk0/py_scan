@@ -1,5 +1,5 @@
 ## py_scan
-
+```
 #-*- coding: utf-8 -*-
 import socket, time, thread
 socket.setdefaulttimeout(3)
